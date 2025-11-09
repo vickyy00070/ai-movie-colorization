@@ -70,3 +70,9 @@ MIT License — see LICENSE
 ## Citation
 If using this work, please cite:
 Rudra, V. (2025). *AI-Based Movie Colorization Using Deep Learning for Visual Restoration.* Zenodo. DOI: (to be added)
+---
+
+## 📄 Project Report
+You can read the full detailed report of this project here:  
+👉 [Download Full Report (PDF)](https://github.com/vickyy00070/ai-movie-colorization/blob/main/Vivek_Rudra_AI_Movie_Colorization_Report_Updated.pdf)
+
